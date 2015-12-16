@@ -1,0 +1,7 @@
+*~
+*.pyc
+*.sqlite3
+/lib
+/bin
+/include
+lib64
